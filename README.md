@@ -1,4 +1,4 @@
 # Case-Study-Covid19
-This project is a case study on Covid19 patients and follows the framework of data visualization and time series modelling. The goal is to visualize the impact and analyze the trend of rate of infection and recovery as well as make predictions about the number of cases expected a week in future based on the current trends.
+This project is a case study on Covid19 patients and follows the framework of data visualization and time series modelling. The goal is to visualize the impact and analyze the trend of rate of infection and recovery as well as to make predictions about the number of cases expected a week in future based on the current trends.
 Pandas is used in pre-processing stage to accumulate data from multiple data files. To create interactive visualizations, plotly (visualization library) is used. Finally,Facebook prophet library is used to build time series models required for forecast.
 It is to be noted that the data used for the same dates back to 2020. The scope of this project can be extended further into studying about the impact of vaccines on death rates across the world by using updated data.
